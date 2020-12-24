@@ -25,4 +25,4 @@ The main findings of the data could be found on my Medium story here: . And the 
 
 ## Licensing, Authors, Acknowledgements
 - The data are provided by Stackoverflow from the following page: [https://insights.stackoverflow.com/survey](https://insights.stackoverflow.com/survey).
-- The contents of this repository are covered under the [MIT License](https://github.com/udacity/ud777-writing-readmes/blob/master/LICENSE).
+- The contents of this repository are covered under the [MIT License](https://choosealicense.com/licenses/mit/).
