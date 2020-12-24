@@ -1,5 +1,7 @@
 # Stackoverflow 2020 Developer Survey
 ***
+![Heading Image](img/project-img.jpeg)
+
 This repo contains an analysis on the Stackoverflow 2020 Developer Survey with the use of Jupyter Notebook.
 
 ## Installation
