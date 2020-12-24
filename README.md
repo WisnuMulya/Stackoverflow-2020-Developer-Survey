@@ -23,7 +23,7 @@ In this project I am interested in knowing more about the followings:
 There is only one Jupyter Notebook file here: `stackoverflow_2020_data_analysis.ipynb`. The data are under the directory `developer_survey_2020`.
 
 ## Results
-The main findings of the data could be found on my Medium story here: . And the detailed analysis could be found on the `stackoverflow_2020_data_analysis.ipynb` file.
+The main findings of the data could be found on my Medium story here: [Medium story](https://wisnumulya.medium.com/this-is-how-much-developers-earn-1186505fe096). And the detailed analysis could be found on the `stackoverflow_2020_data_analysis.ipynb` file.
 
 ## Licensing, Authors, Acknowledgements
 - The data are provided by Stackoverflow from the following page: [https://insights.stackoverflow.com/survey](https://insights.stackoverflow.com/survey).
