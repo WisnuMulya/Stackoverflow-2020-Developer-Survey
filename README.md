@@ -20,7 +20,7 @@ In this project I am interested in knowing more about the followings:
 - Does different educational background have different result in popularity or salary?
 
 ## File Descriptions
-There is only one Jupyter Notebook file here: `stackoverflow_2020_data_analysis.ipynb`. The data are under the directory `developer_survey_2020`.
+There is only one Jupyter Notebook file here: `stackoverflow_2020_data_analysis.ipynb`. You could also access the HTML version with the `stackoverflow_2020_data_analysis.html`. The data are under the directory `developer_survey_2020`.
 
 ## Results
 The main findings of the data could be found on my Medium story here: [Medium story](https://wisnumulya.medium.com/this-is-how-much-developers-earn-1186505fe096). And the detailed analysis could be found on the `stackoverflow_2020_data_analysis.ipynb` file.
